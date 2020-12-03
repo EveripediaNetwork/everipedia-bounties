@@ -15,6 +15,10 @@ Everipedia is excited to announce the opening of a public bounty system for the 
 
 Everipedia team will be reviewing your Pull Request, we expect high quality of code, test coverage and code available to be deployed on Kylin & Mainnet. If you have questions please reach to us in the telegram channel created for EP Bounties.
 
+### License
+
+All projects founded by Everipedia Bounties should use MIT license ( https://choosealicense.com/licenses/mit/ ) 
+
 ## 🧠 Batch 1
 
 - <a href="https://github.com/EveripediaNetwork/everipedia-bounties/issues/1">PredIQt alert bot ($3,500)</a>
