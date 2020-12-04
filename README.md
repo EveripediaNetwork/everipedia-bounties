@@ -4,16 +4,17 @@ Everipedia is excited to announce the opening of a public bounty system for the 
 
 ## 🤑 How it works?
 
-1. Check our bounties in his github issue.
-2. Comment in our telegram channel if you have questions ( https://t.me/epbounties ).
-3. Write a comment in the github issue so other people are aware that you are working on that issue.
-4. Create a Pull Request adding your EOS mainnet account to the repository created on EveripediaNetwork for that task.
-5. Get accepted Pull Request.
-6. Get paid in IQ with the dollar equivalence of the current day of merging the PR.
+1. Check our bounties in [the GitHub issues](https://github.com/EveripediaNetwork/everipedia-bounties/issues).
+2. Comment in our telegram channel if you have questions or want to work on a bounty ( https://t.me/epbounties ).
+3. You must discuss with us before starting a bounty. Do this by commenting on a github issue and/or a message to the team on Telegram. Only one developer can work on a bounty at once.
+4. Work on the bounty and communicate with the Everipedia team. Ensure you're talking to us often so your PR will be what we expect.
+5. Create a Pull Request and include your EOS mainnet account name in the PR comment.
+6. Get accepted Pull Request.
+7. Get paid in IQ with the dollar equivalence of the current day of merging the PR.
 
 ### Accepting the pull request
 
-Everipedia team will be reviewing your Pull Request, we expect high quality of code, test coverage and code available to be deployed on Kylin & Mainnet. If you have questions please reach to us in the telegram channel created for EP Bounties.
+The Everipedia team will review your Pull Request. We expect high quality of code, test coverage, and code available to be deployed on Kylin & Mainnet. If you have questions please reach to us in the telegram channel created for EP Bounties.
 
 ### License
 
