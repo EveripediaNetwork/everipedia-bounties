@@ -26,6 +26,6 @@ All projects founded by Everipedia Bounties should use MIT license ( https://cho
 - <a href="https://github.com/EveripediaNetwork/everipedia-bounties/issues/2">Mindswap limit order ($3,000)</a>
 - <a href="https://github.com/EveripediaNetwork/everipedia-bounties/issues/3">Mindswap limit order bot ($1,000)</a>
 - <a href="https://github.com/EveripediaNetwork/everipedia-bounties/issues/4">PredIQt oracle using Provable ($2,000)</a>
-- <a href="https://github.com/EveripediaNetwork/everipedia-bounties/issues/5">Opendata price feed Oracle ($2,000)</a>
-- <a href="https://github.com/EveripediaNetwork/everipedia-bounties/issues/6">Opendata price feed bot ($750)</a>
+- <a href="https://github.com/EveripediaNetwork/everipedia-bounties/issues/5">Opendata price feed Oracle ($2,500)</a>
+- <a href="https://github.com/EveripediaNetwork/everipedia-bounties/issues/6">Opendata price feed bot ($1,000)</a>
 - More coming soon...
