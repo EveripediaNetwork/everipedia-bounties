@@ -16,6 +16,10 @@ Everipedia is excited to announce the opening of a public bounty system for the 
 
 The Everipedia team will review your Pull Request. We expect high quality of code, test coverage, and code available to be deployed on Kylin & Mainnet. If you have questions please reach to us in the telegram channel created for EP Bounties.
 
+### Locking
+
+We will lock the issue once a developer is accepted. We expect weekly / bi-weekly communication about updates, code pushes. If developer fails to communicate / is not engaging with the locked task, Everipedia Team can open it again for other developers.
+
 ### License
 
 All projects founded by Everipedia Bounties should use MIT license ( https://choosealicense.com/licenses/mit/ ) 
