@@ -14,7 +14,7 @@ Everipedia is excited to announce the opening of a public bounty system for the 
 
 ### Accepting the pull request
 
-The Everipedia team will review your Pull Request. We expect high quality of code, test coverage, and code available to be deployed on Kylin & Mainnet. If you have questions please reach to us in the telegram channel created for EP Bounties.
+The Everipedia team will review your Pull Request. We expect high quality of code, test coverage, documentation and code available to be deployed on Kylin & Mainnet. If you have questions please reach to us in the telegram channel created for EP Bounties.
 
 ### Locking
 
