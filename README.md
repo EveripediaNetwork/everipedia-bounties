@@ -5,7 +5,7 @@ Everipedia is excited to announce the opening of a public bounty system for the 
 ## 🤑 How it works?
 
 1. Check our bounties in [the GitHub issues](https://github.com/EveripediaNetwork/everipedia-bounties/issues).
-2. Comment in our telegram channel if you have questions or want to work on a bounty ( https://t.me/epbounties ).
+2. Comment in our telegram channel if you have questions or want to work on a bounty ( https://t.me/epdevs ).
 3. You must discuss with us before starting a bounty. Do this by commenting on a github issue and/or a message to the team on Telegram. Only one developer can work on a bounty at once.
 4. Work on the bounty and communicate with the Everipedia team. Ensure you're talking to us often so your PR will be what we expect.
 5. Create a Pull Request and include your EOS mainnet account name in the PR comment.
